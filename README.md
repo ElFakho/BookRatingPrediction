@@ -74,7 +74,7 @@ To explore this book ratings prediction project, please follow these steps:
 ```
 
 3. Use the Cleaned Data
-- The repository includes a cleaned version of the `books.csv file` which has been pre-processed directly in Excel to correct certain data inconsistencies and prepare it for analysis.
+- The repository includes a cleaned version of the `books.csv` file which has been pre-processed directly in Excel to correct certain data inconsistencies and prepare it for analysis.
 
 4. Run the Jupyter Notebook
 - Ensure you have Jupyter Notebook installed on your system. If not, you can install it using pip:
